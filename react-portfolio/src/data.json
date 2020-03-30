@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "CodeQuiz",
+        "description": "",
+        "githubLink": "https://github.com/Jazline/CodeQuiz",
+        "deployedLink": ""
+    },
+    {
+        "id": 2,
+        "title": "GirlScout",
+        "image": "",
+        "description": "",
+        "githubLink": "https://github.com/Jazline/GirlScouts",
+        "deployedLink": "https://enigmatic-mesa-65313.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "title": "UserDirectory",
+        "image": "",
+        "description": "",
+        "githubLink": "https://github.com/Jazline/UserDirectory",
+        "deployedLink": ""
+    },
+    {
+        "id": 4,
+        "title": "FitnessTracker",
+        "image": "",
+        "description": "",
+        "githubLink": "https://github.com/Jazline/FitnessTracker",
+        "deployedLink": ""
+    },
+    {
+        "id": 5,
+        "title": "EmployeeTracker",
+        "image": "",
+        "description": "",
+        "githubLink": "https://github.com/Jazline/EmployeeTracker",
+        "deployedLink": ""
+    }
+
+]
